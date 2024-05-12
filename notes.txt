@@ -1,0 +1,52 @@
+pyTorch exploration history notes for this project
+
+Goal:  Fun and play.
+    How do custom activation layers work?
+    How to automate auto testing different layer configurations?
+
+Folders
+    D:/dev/pytorch_exploration
+    D:/dev/pytorch_exploration
+
+2024_05-06
+    test_act_bell_relu.ipynb  --> cleaned and moved to dev/pytorch_exploration_test
+    test_model_autobuild.ipynb  --> cleaned and moved to dev/pytorch_exploration_test
+
+2024_05-03
+    act_bell_relu.py --> cleaned and moved to dev/pytorch_exploration
+    model_autobuild.py --> cleaned and moved to dev/pytorch_exploration
+
+2024_05-01
+    built dictionary layers builder in temp build files, Anaconda Jupyter notebook
+
+2024_04-30
+    built custom bell_reLu activation in temp build files, Anaconda Jupyter notebook
+
+2024_04-29
+    pytoch_exploration in temp build files, Anaconda Jupyter notebook
+        running model with simple training
+
+2024_04-23
+   Spaghetti code exporing pytorch model build
+
+2024_04-19
+   python V3.8.19
+   jetbrains pycharm community version setting up projects under D:/dev/dev_pycharm
+
+ 2024_04-19
+   Anaconda Environment py3_8-19_A
+   pyCharm  (dev_pycharm environment py 3.8)
+   notepad++
+   D:/dev/pytorch_exploration
+       - active python files
+   D:/dev/pytorch_exploration_test
+       - code testing files, ipynb (Jupyter notebook, anaconda)
+
+setup notes
+conda install numpy
+conda install pandas
+    (conda install cython)
+conda install conda-forge::matplotlib
+
+conda install pytorch
+
